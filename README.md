@@ -1,1 +1,1 @@
-# odin-wedsite
+# odin-website
