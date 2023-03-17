@@ -82,8 +82,8 @@ body {
   .card {
     border: 3px solid #3882F6;
     color: #1F2937;
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
     padding: 16px;
     margin: 16px;
     border-radius: 15px;
@@ -132,10 +132,73 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     background-color: white;
+    height: 300px;
   }
   
-  h1 {
-    align-item: center;
+  h2 {
+    color: black;
+    padding-top: 50px;
+    font-size: 36px;
+  }
+  
+  h3 {
+    padding-top: 120px;
+    font-size: 11px;
+    font-weight: 50;
+  }
+  
+  .greybox {
+    background-color: #e5e7eb;
+    height: auto;
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    padding-left: 300px;
+    padding-right: 300px;
+      padding-top: 100px;
+  
+   
+  }
+  
+  .calltoday {
+    background-color: #3882f6;
+    height: 100px;
+     width: 80%;
+    padding: 20px;
+    margin: 100px;
+      border-radius: 8px;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    flex-style: row;
+    justify-content: space-between;
+     align-content: center;
+     flex-wrap: wrap;
+          
+   
+   
   }
   
   
+  h4 {
+    text-align: right;
+    color: black;
+    font-size: 24px;
+     font-style: normal;
+    padding-right: 50px;
+  }
+  
+  .call {
+    font-size: 16px; 
+    color: #e5e7eb
+  }
+  
+  .button2 {
+    border: 2px solid white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 50px;
+    margin-top: -25px;
+  }
